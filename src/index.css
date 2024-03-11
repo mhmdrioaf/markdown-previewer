@@ -6,3 +6,7 @@
   --primary: 184 255 242;
   --primary-foreground: 14 14 14;
 }
+
+.markdown {
+  @apply min-w-full rounded-b-md h-64 overflow-y-auto;
+}
